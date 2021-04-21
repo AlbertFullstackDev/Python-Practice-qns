@@ -57,7 +57,12 @@ python_students = [[name, score] for name, score in zip(names, scores)]
 
 lowest_score_array = min(python_students, key=lambda student: student[1])
 
-python_students.remove(lowest_score_array)
+lowest_score = lowest_score_array[1]
+
+
+python_students = [
+    student for student in python_students if student[1] != lowest_score]
+
 
 second_lowest_score_array = min(
     python_students, key=lambda student: student[1])
