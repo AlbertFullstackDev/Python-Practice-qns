@@ -1,0 +1,25 @@
+1. Write a Python program to create a SQLite database and connect with the database and print the version of the SQLite database.
+
+2. Write a Python program to create a SQLite database connection to a database that resides in the memory.
+
+3. Write a Python program to connect a database and create a SQLite table within the database.
+
+4. Write a Python program to list the tables of given SQLite database file.
+
+5. Write a Python program to create a table and insert some records in that table. Finally selects all rows from the table and display the records.
+
+6. Write a Python program to insert a list of records into a given SQLite table.
+
+7. Write a Python program to insert values to a table from user input.
+
+8. Write a Python program to count the number of rows of a given SQLite table.
+
+9. Write a Python program to update a specific column value of a given table and select all rows before and after updating the said table.
+
+10. Write a Python program to update all the values of a specific column of a given SQLite table.
+
+11. Write a Python program to delete a specific row from a given SQLite table.
+
+12. Write a Python program to alter a given SQLite table.
+
+13. Write a Python program to create a backup of a SQLite database.
