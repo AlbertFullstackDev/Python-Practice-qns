@@ -6,7 +6,8 @@
 
 4. Write a Python program to list the tables of given SQLite database file.
 
-5. Write a Python program to create a table and insert some records in that table. Finally selects all rows from the table and display the records.
+5. Write a Python program to create a table and insert some records in that table.
+ Finally selects all rows from the table and display the records.
 
 6. Write a Python program to insert a list of records into a given SQLite table.
 
